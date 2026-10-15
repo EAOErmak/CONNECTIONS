@@ -1,0 +1,4 @@
+PASS: 415 deterministic and serialized-scene checks.
+Electrical: all 64 states, unique solution 46.
+Morse: A-Z, invalid input, correction, answers.
+Scenes: component and serialized references, audio, placeholder, doors and trigger.
